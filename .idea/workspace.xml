@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56a2e851-c851-4a8d-8cf9-9c3b80670fa7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/backend/src/parser_patient_details.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/test/test_patient_details_parser.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/notebooks/pd_parser.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/notebooks/pd_parser.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/test/test_patient_details_parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/test/test_patient_details_parser.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,19 +32,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.pytest in test_patient_details_parser.py.executor": "Run",
-    "Python tests.pytest in test_prescription_parser.py.executor": "Run",
-    "Python.extractor.executor": "Run",
-    "Python.parser_generic.executor": "Run",
-    "Python.parser_patient_details.executor": "Run",
-    "Python.parser_prescription.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Mirage/OneDrive/Desktop/Projects/Python Projects/Project Medical Data Extraction"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.pytest in test_patient_details_parser.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_prescription_parser.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.extractor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.parser_generic.executor&quot;: &quot;Run&quot;,
+    &quot;Python.parser_patient_details.executor&quot;: &quot;Run&quot;,
+    &quot;Python.parser_prescription.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mirage/OneDrive/Desktop/Projects/Python Projects/Project Medical Data Extraction&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
